@@ -1,0 +1,9 @@
+.git/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+credit_model.joblib
+credit_metrics.json
+credit_holdout_predictions.csv
+credit_probabilities.csv
